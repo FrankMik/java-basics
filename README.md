@@ -1,12 +1,21 @@
-# Java Playground
+# Java Basics
 
 Sammlung kleiner Java-Übungsprojekte und Lernsnippets.
 
 ## Struktur
 
 - `Projects/`
-  - Enthält kleine, abgeschlossene Konsolenprojekte (z.B. Währungsrechner, Zahlen raten).
+  - **waerungsrechner** – Konsolenprogramm zum Umrechnen von Beträgen zwischen Währungen.
+  - **zahlen-raten** – Konsolenspiel „Zahlen raten“ mit Zufallszahl und Versuchsanzahl.
 - `snippets/`
-  - Kleine Beispiele zu Java-Grundlagen (Math, Strings, etc.).
+  - Übungsdateien aus dem Unterricht / Selbststudium, z.B.:
+    - Datentypen, Variablen, Type Casting
+    - Operatoren (arithmetisch, logisch, Vergleich)
+    - Schleifen (for, while, do-while, for-each)
+    - `Math`‑Klasse, Zufall, Strings, Scanner usw.
 
-Ziel: Kontinuierlich neue Übungen hinzufügen und meinen Lernfortschritt sichtbar machen.
+## Ziel
+
+- Java-Grundlagen systematisch üben
+- Kleine, abgeschlossene Konsolenprojekte aufbauen
+- Lernfortschritt für Recruiter und zukünftige Arbeitgeber sichtbar machen
