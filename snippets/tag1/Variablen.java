@@ -27,6 +27,18 @@ public class Variablen {
 
         char myVar = 65, myVar2 = 66, myVar3 = 67; //Mehrere Variablen desselben Typs deklarieren
 
+        System.out.println("Alter: " + alter);
+        System.out.println("Jahr: " + jahr);
+        System.out.println("Name: " + name);
+        System.out.println("Float: " + myfloat);
+        System.out.println("Buchstabe: " + buchstabe);
+        System.out.println("Wahrheit: " + wahrheit);
+        System.out.println("Byte: " + kleinZahl);
+        System.out.println("Short: " + kurzZahl);
+        System.out.println("Long: " + grosseZahl);
+        System.out.println("Double: " + grosseGleitkommazahl);
+        System.out.println("Pi: " + Pi);
+
         System.out.println(myVar);
         System.out.println(myVar2);
         System.out.println(myVar3);

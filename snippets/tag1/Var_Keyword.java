@@ -6,5 +6,10 @@ public class Var_Keyword {
         var myText = "Hello World"; // String variable
         var myChar = 'A';        // Character variable
         var myBoolean = true;       // Boolean variable
+        System.out.println("Integer: " + myNum);
+        System.out.println("Double: " + myDouble);  
+        System.out.println("String: " + myText);
+        System.out.println("Character: " + myChar);
+        System.out.println("Boolean: " + myBoolean);
     }
 }
