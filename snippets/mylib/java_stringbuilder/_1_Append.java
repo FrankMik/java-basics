@@ -1,4 +1,4 @@
-package java_stringbuilder;
+package mylib.java_stringbuilder;
 
 public class _1_Append {
     public static void main(String[] args) {

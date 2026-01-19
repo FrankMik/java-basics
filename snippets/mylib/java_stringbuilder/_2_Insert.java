@@ -1,4 +1,4 @@
-package java_stringbuilder;
+package mylib.java_stringbuilder;
 
 import java.util.Scanner;
 
