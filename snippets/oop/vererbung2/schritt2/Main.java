@@ -21,14 +21,6 @@ class Fahrzeug {
 
 }
 
-class VerbrennerAuto extends Fahrzeug {
-
-}
-
-class EAuto extends Fahrzeug {
-
-}
-
 class Motor {
 
 }
