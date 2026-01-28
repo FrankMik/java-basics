@@ -1,6 +1,6 @@
 package oop.vererbung2.schritt5;
 
-// wir erweitern den motor ein
+// wir erweitern den motor
 public class Main {
     public static void main(String[] args) {
         VerbrennerAuto verbAu = new VerbrennerAuto("BMW", "schwarz", new Motor(174, "Benziner"));
