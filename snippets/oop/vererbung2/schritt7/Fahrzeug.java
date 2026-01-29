@@ -23,7 +23,8 @@ public class Fahrzeug {
     }
 
     void fahrerInfo() {
-        if (fahrer != null) {
+        if (fahrer instanceof Fahrer) { 
+            // if (fahrer != null) {  // man kann beide benutzen
             if (fahrer.fahrErlaubniss()) {
                 System.out.println("Fahrer: " + fahrer.getName() + " ist " + fahrer.getAlter() + " Jahre");
             } else {
